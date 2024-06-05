@@ -2,7 +2,6 @@
 {
     color: white; background: brown;
     text-align: center;
-    font-weight: 800;
     font: bolder;
 
 }
@@ -10,9 +9,9 @@
 .heading
 {
     font: bold;
-    font-size: 40px;
+    font-size: 30px;
     color: wheat;
-    background-color: black;
+    background-color: green;
     
 }
 
@@ -22,9 +21,14 @@
     font-style: italic;
 }
 
-.desc
+#desc-para
 {
-    color: aqua;
+    text-align: center;
+    font-size: large;
+    font-weight: bold;
 }
 
-
+.ingredients
+{
+    font-size: 18px;
+}
