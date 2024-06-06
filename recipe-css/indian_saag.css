@@ -1,0 +1,19 @@
+#recipe-heading
+{
+    color: green;
+    background-color: yellow;
+    text-align: center;
+    font: bolder;
+}
+
+.desc-heading
+{
+    text-align: center;
+    background-color: brown;
+    font-size: 24px;
+}
+
+.desc
+{
+    font-size: 19px;   
+}
