@@ -1,0 +1,20 @@
+#recipe-heading
+{
+    color:lawngreen;
+    background-color: darkorange;
+    text-align: center;
+    font: bolder;
+}
+
+.heading
+{
+    background-color: yellowgreen;
+    text-align: center;
+    font-size: 25px;
+    color:crimson
+}
+
+.write-up
+{
+    font-size: 19px;
+}
