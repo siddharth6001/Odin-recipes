@@ -1,11 +1,23 @@
 #heading
 {
+    font-size: 40px;
+    display: block;
     color: black;
     background-color: yellow;
     text-align: center;
+    padding: 8px;
 }
 
-#list
+div
 {
+    background-color: cornsilk;
     font-size: 22px;
+    padding: 1px;
+}
+
+ul
+{
+    background-color: blanchedalmond;
+    margin: 1px 0px;
+    padding: 5px 20px;
 }
