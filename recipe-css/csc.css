@@ -1,34 +1,40 @@
-#recipe-heading
+h1
 {
     color: white; background: brown;
     text-align: center;
     font: bolder;
-
+    margin: 3px;
+    padding: 2px;
 }
 
-.heading
+img
 {
-    font: bold;
+    margin: 25px;
+}
+
+h2, h3, h4
+{
     font-size: 30px;
     color: wheat;
     background-color: green;
-    
+    margin: 30px 20px;
 }
 
 .sub-heading
 {
-    font-size: 25px;
+    font-size: 24px;
     font-style: italic;
+    margin: 25px;
 }
 
 #desc-para
 {
     text-align: center;
     font-size: large;
-    font-weight: bold;
+    margin: 30px;
 }
 
-.ingredients
+ul, ol
 {
     font-size: 18px;
 }
