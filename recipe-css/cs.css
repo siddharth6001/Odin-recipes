@@ -1,20 +1,32 @@
-#recipe-heading
+h1
 {
     color:lawngreen;
     background-color: darkorange;
     text-align: center;
-    font: bolder;
+    font-size: 30px;
 }
 
-.heading
+img
+{
+    margin: 15px 45px;
+}
+
+h2, h3, h4
 {
     background-color: yellowgreen;
     text-align: center;
     font-size: 25px;
-    color:crimson
+    color: red;
+    padding: 5px;
 }
 
 .write-up
 {
-    font-size: 19px;
+    font-size: 18px;
+    padding: 20px;
+}
+
+ul, ol
+{
+    font-size: 18px;
 }
